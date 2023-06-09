@@ -1,5 +1,4 @@
 <h2 align="center">Morgan Walder - Developer <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"></h2>
-<hr>
 <p align="center">
     <a href="https://github.com/xtekky?tab=stars">
         <img alt="" src="https://img.shields.io/github/stars/xtekky?style=for-the-badge&affiliations=OWNER%2CCOLLABORATOR">
@@ -13,7 +12,6 @@
 </p>
 <p align="center">I'm a developer with expertise in Python, JavaScript, and HTML/CSS. I enjoy building web applications and exploring new technologies. Let's collaborate and create amazing projects together!</p>
 <h2 align="center">Skills</h2>
-<hr>
 <br>
 <p align="center">
     <a href="https://skillicons.dev">
