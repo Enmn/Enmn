@@ -3,8 +3,8 @@
 <h2 align="center">Skills</h2>
 <br>
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,vscode,cs,html,css,js,php">
+    <a href="#">
+        <img src="https://skillicons.dev/icons?i=vscode,python,cs,html,css,js,php,linux,arch,git">
     </a>
 </p>
 <p align="center">
