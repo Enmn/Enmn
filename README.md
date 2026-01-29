@@ -15,12 +15,6 @@
 
 - Speaks: Arabic, little in English.
 
-<br>
-<p align="center">
-    <a href="#">
-        <img src="https://skillicons.dev/icons?i=vscode,python,cs,html,css,js,php,linux,arch,git">
-    </a>
-</p>
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />
